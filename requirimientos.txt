@@ -1,0 +1,13 @@
+tensorflow==2.7.0
+tensorflow-gpu
+mtcnn==0.1.1
+deepface==0.0.68
+fastapi==0.70.0
+pydantic==1.8.2
+uvicorn==0.15.0
+matplotlib==3.5.0
+python-multipart
+librosa
+numpy
+hypercorn
+pyocr==0.8.1
